@@ -76,7 +76,7 @@
     },
     {
       "label": "Koptekst feedback van de samenvatting",
-      "default": "Je resultaat",
+      "default": "Jouw resultaat",
       "description": "Dit wordt getoond boven de feedback van de samenvatting."
     },
     {
